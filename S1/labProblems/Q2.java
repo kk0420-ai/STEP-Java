@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class splitMethod {
+public class Q2 {
 
     public static int findLength(String str) {
         int count = 0;
