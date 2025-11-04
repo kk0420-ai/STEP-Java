@@ -63,6 +63,6 @@ class CircularLinkedList {
         list.insertAtEnd(30);
         list.deleteAtBeginning();
         list.insertAtEnd(40);
-        list.display(); // Output: 20 → 30 → 40 → back to 20
+        list.display();
     }
 }
